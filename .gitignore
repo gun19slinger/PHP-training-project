@@ -1,0 +1,6 @@
+*.xml
+vendor/
+inc/config.php
+inc/captcha.jpg
+tests.php
+temlates/testtemplate.php
